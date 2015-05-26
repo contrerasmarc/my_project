@@ -10,7 +10,7 @@
 # General configuration.
 config :all, :required => :sproutcore, :theme => "my_project_theme"
 
-# The theme variable uses the name of the file in the folder my_project/themes/
+# The theme variable uses the name of the theme folder ('my_project_theme') in the directory my_project/themes/
 
 
 # Development (debug) mode configuration.

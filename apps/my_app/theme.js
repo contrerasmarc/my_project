@@ -19,6 +19,7 @@
 MyApp.Theme = MyProjectTheme.create({
 // MyApp.Theme = SC.AceTheme.create({
   name: 'my-app'
+  
 });
 
 // SproutCore needs to know that your app's theme exists

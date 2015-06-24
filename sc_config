@@ -1,0 +1,5 @@
+var my_app = BT.AppBuilder.create({
+  name: 'my_app',
+  title: 'My App', 
+  path: 'apps/my_app'
+});
